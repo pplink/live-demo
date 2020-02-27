@@ -1,6 +1,7 @@
 # 데모 실행하는 방법
 
 ```bash
+$ npm install
 $ npm start
 ```
 
