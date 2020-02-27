@@ -6,9 +6,9 @@ $ npm start
 
 # 참고해야하는 파일
 
-config.ts
-routes/index.ts
-lib/live-streaming-api.ts
+config.ts  
+routes/index.ts  
+lib/live-streaming-api.ts  
 
 # Host가 영상 스트리밍 시작하는법
 
